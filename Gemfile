@@ -52,7 +52,7 @@ gem 'devise'
 gem 'bootstrap-sass', '~>3.0.1'
 
 # Use protected attributes for mass assignment issue
-gem 'protected_attrinbutes'
+gem 'protected_attributes'
 
 group :production do
 	gem 'pg', '0.15.1'
