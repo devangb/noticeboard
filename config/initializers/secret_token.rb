@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Noticeboard::Application.config.secret_key_base = 'be695c4c882422f7af0a8445e755f44e1acb1ed31dfa594498ce0a91d3b2f058a2d70f8d9defac07aaa0ca2081c72d2437177e42233857513d80f2d31838fa45'
+Noticeboard::Application.config.secret_key_base = '###############'
